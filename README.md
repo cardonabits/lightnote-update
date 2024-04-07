@@ -20,7 +20,10 @@ two options below:
 
 ## Steps
 
-1. Attach lightnote to your host and press the lightnote pushbutton once.
+1. Attach lightnote to your host and press the lightnote pushbutton until you see the USB icon on the screen.
+
+![lightnote-usb](https://github.com/cardonabits/lightnote-update/assets/676181/a7aaa4d2-c884-46f2-8fa8-d46262f34f7e)
+
 
 > [!NOTE]
 > On MacOS you may get the following error, which is OK to ignore:

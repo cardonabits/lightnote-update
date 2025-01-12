@@ -30,7 +30,7 @@ two options below:
 >
 > ![](images/readable-error.png)
 
-2. Launch baleneEtcher and select 'Flash From File'. 
+2. Launch balenaEtcher and select 'Flash From File'. 
 
 ![](images/flash-from-file.png)
 
